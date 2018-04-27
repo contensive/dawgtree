@@ -1,0 +1,82 @@
+    <!-- content tabs -->
+    <div class="contentTabs">
+    <div class="default-width">
+        <div id="js-promoTabs" class="contentTabsInner">
+            <ul>
+                <li><a href="#js-promoTab-1" class="tabNav">Dogster Magazine</a></li>
+                <li><a href="#js-promoTab-2" class="tabNav">Merril Dogpark Newsletter</a></li>
+                <li><a href="#js-promoTab-3" class="tabNav">WTOP News Radio</a></li>
+                <li><a href="#js-promoTab-4" class="tabNav">Providence Journal</a></li>
+                <li><a href="#js-promoTab-5" class="tabNav">Toronto Standard</a></li>
+            </ul>
+            <div id="js-promoTab-1" class="tab1of5 oneTab">
+                <div class="tabImg">
+                    <img src="/sites/all/themes/business/images/Dogster.jpg" alt="" />
+                </div>
+                <div class="tabContent">
+                    <h3>Why Does Dog Pee Kill Plants? -And What Can We Do About It?</h3>
+                    <div class="tabSum">
+                       <p>Theories abound about what in dog urine is toxic to plants, a popular one being extremes of pH. People say that acidic urine burns the plants, but the real answer is a lot simpler.</p>
+                        <p>A 1981 study called Lawn burn from dog urine helped bury the old myth that pH is causing the trouble. The concentration of urea in dog urine is basically too much of a good thing for grass and other plants. Other salt and compounds such as potassium may also contribute, but nitrates are known to be the No. 1 killer.</p>
+                        <span class="tabExURL"><a href="http://www.dogster.com/lifestyle/dog-behavior-training-pee-kills-plants-tips" target="_blank">Read More...</a></span>
+                    </div>
+                </div>
+            </div>
+            <div id="js-promoTab-2" class="tab2of5 oneTab">
+                <div class="tabImg">
+                    <img src="/sites/all/themes/business/images/Merril Dog Park.jpg" alt="" />
+                </div>
+                <div class="tabContent">
+                    <h3>Does Dog Urine Really Kill Trees</h3>
+                    <div class="tabSum">
+                        <p>People living in cities love the look of trees, numerous studies have shown trees in proximity to neighborhoods make people happier. Trees are wonderful asset to any city lined along the city streets and in parks. But city life takes a toll on trees. The city adoption of zone specific off leash areas has created a potential environmental "red flag". With so many dogs congregating in one area such as a "dog park" the "wear and tear" from all the activity takes its toll on nature especially the trees. "Does dog urine really kill trees?" Unfortunately for the dogs and the trees, the answer seems to be yes.</p>
+                        <span class="tabExURL"><a href="https://merrilldogpark.files.wordpress.com/2013/11/click-here-to-learn-more-about-why-dog-pee-is-harsh-on-trees.pdf" target="_blank">Read More...</a></span>
+                    </div>
+                </div>
+            </div>
+            <div id="js-promoTab-3" class="tab3of5 oneTab">
+                <div class="tabImg">
+                    <img src="/sites/all/themes/business/images/WTOP.jpg" alt="" />
+                </div>
+                <div class="tabContent">
+                    <h3>How dog urine can kill city trees</h3>
+                    <div class="tabSum">
+                        <p>WASHINGTON - The difference between city trees and those in the suburbs may not seem big to most dog owners. But the next time a dog is tugging on its leash, headed for a solid-looking pine to "water," WTOP's Garden Editor Mike McGrath says that small territorial claim could kill the tree.</p>
+                        <p>Part of the problem is that trees in urban landscapes are already in the most unnatural situation imaginable, McGrath says. These trees are already struggling under stress.</p><p>"There's very little soil available for a city tree," he says.</p>
+                        <p>That limited soil experiences a tremendous amount of compaction, while the trees are subjected to vast temperature extremes. Add in a concentrated amount of urine from a dog and the consequences could be disastrous.</p>
+                        <span class="tabExURL"><a href="#" target="_blank">Read More...</a></span>
+                    </div>
+                </div>
+            </div>
+            <div id="js-promoTab-4" class="tab4of5 oneTab">
+                <div class="tabImg">
+                    <img src="/sites/all/themes/business/images/Dogster.jpg" alt="" />
+                </div>
+                <div class="tabContent">
+                    <h3>Anna Browder: Keep dogs away from young trees</h3>
+                    <div class="tabSum">
+                        <p>This is the fall planting season for the Providence Neighborhood Planting Program. Once it's over, residents will have added many free trees to lawns and sidewalk strips all over the city.</p>
+                        <p>The young trees need a bit of coddling. Regular watering, mulching and weeding contribute greatly to their ongoing health. But there's one more thing we need to do for them.</p>
+                        <p>They must be protected from dog urine. "The acid eats right through the bark and cambial zone to the wood zone, destroying the tree's defense system."</p>
+                        <span class="tabExURL"><a href="http://m.providencejournal.com/opinion/letters-to-the-editor/20141026-anna-browder-keep-dogs-away-from-young-trees.ece" target="_blank">Read More...</a></span>
+                    </div>
+                </div>
+            </div>
+            <div id="js-promoTab-5" class="tab5of5 oneTab">
+                <div class="tabImg">
+                    <img src="/sites/all/themes/business/images/Dogster.jpg" alt="" />
+                </div>
+                <div class="tabContent">
+                    <h3>Dog Pee Kills Trees Fido's "tree-mail" is actually eroding our urban forest</h3>
+                    <div class="tabSum">
+                        <p>Dog park politics just got a little more complicated. A recent investigation by The Atlantic Cities reports that dog pee is a major threat to the survival of urban trees. Trees in big cities face so many challenges - poor soil quality, air pollution, road salt contamination to name few - and dog pee is making it worse.</p>
+                        <span class="tabExURL"><a href="http://www.torontostandard.com/the-sprawl/dog-pee-kills-trees/" target="_blank">Read More...</a></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- trim -->
+        <div class="boxTrim"></div>
+    </div>
+    </div>
+    <!-- end content tabs -->
